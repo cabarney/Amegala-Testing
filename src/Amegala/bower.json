@@ -1,0 +1,7 @@
+{
+    "name": "Amegala",
+    "dependencies": {
+        "bootstrap": "3.3.4",
+        "aurelia-bootstrapper": "0.10.0"
+    }
+}
